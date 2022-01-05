@@ -1,0 +1,3 @@
+C:\Users\Chris Hill\source\repos\Program 3\Program 3\Debug\Program_3.Form1.resources
+C:\Users\Chris Hill\source\repos\Program 3\Program 3\Debug\Program 3.vcxproj.GenerateResource.cache
+C:\Users\Chris Hill\source\repos\Program 3\Program 3\Debug\Program 3.vcxprojAssemblyReference.cache
